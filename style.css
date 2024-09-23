@@ -1,0 +1,49 @@
+.box{
+    height:600px;
+    width: 400px;
+    color:black;
+    background-color: white;
+    border-radius: 2%;
+    text-align: center;
+}
+span{
+    color:blue;
+}
+div{
+    margin-left: 25%;
+}
+h1{
+    font-size: 40px;
+    color: black;
+
+}
+body{
+    background-color:lightseagreen;
+}
+button{
+    width:300px;
+    height:40px;
+    background-color:#5c37ff;
+    color:aliceblue;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+.input1{
+    height:40px;
+    width:300px;
+    color:chocolate;
+    cursor:pointer;
+
+}
+.input2{
+    height:40px;
+    width:300px;
+    color:chocolate;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+    color:aliceblue;
+    
+}
